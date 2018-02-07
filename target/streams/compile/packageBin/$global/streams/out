@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/assignment-scala04-final/target/scala-2.12/assignment-scala04-final_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/assignment-scala04-final/target/scala-2.12/classes/test.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/assignment-scala04-final/target/scala-2.12/classes/MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TwitterConnectionFactory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/assignment-scala04-final/target/scala-2.12/classes/TwitterConnectionFactory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/assignment-scala04-final/target/scala-2.12/classes/Operations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/assignment-scala04-final/target/scala-2.12/classes/MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TwitterConnectionFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/assignment-scala04-final/target/scala-2.12/classes/TwitterConnectionFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/assignment-scala04-final/target/scala-2.12/classes/Operations.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
